@@ -14,17 +14,6 @@ Worked on real-world projects spanning **drowsiness detection, EV drivetrains, r
 
 ---
 
-## 🎓 Education
-**Madhav Institute of Technology & Science**  
-*B.Tech in Artificial Intelligence & Robotics* (Expected May 2026)  
-CGPA: **7.0 / 10**
-
-**S.R. Government Polytechnic**  
-*Diploma in Computer Science & Engineering* (2020 – 2023)  
-CGPA: **7.61 / 10**
-
----
-
 ## 🛠️ Technical Skills
 
 ### Programming & Tools
