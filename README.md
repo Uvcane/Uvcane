@@ -11,16 +11,7 @@ LinkedIn: https://linkedin.com/in/yuvraj-tiwari295516349
 ## Professional Summary
 AI & Robotics engineer with strong hands-on experience in computer vision, ROS, deep learning, and autonomous systems. Experienced in building real-world systems spanning drowsiness detection, EV drivetrains, robotic automation, and aerial–ground autonomous platforms, with applications in autonomous mobility and intelligent perception.
 
----
 
-## Education
-**Madhav Institute of Technology & Science**  
-Bachelor of Technology in Artificial Intelligence & Robotics (Expected May 2026)  
-CGPA: 7.0 / 10
-
-**S.R. Government Polytechnic**  
-Diploma in Computer Science & Engineering (2020 – 2023)  
-CGPA: 7.61 / 10
 
 ---
 
