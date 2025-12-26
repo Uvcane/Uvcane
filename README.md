@@ -1,73 +1,116 @@
-# 👋 Hi, I'm Yuvraj Tiwari  
+# 👋 Hi, I'm Yuvraj Tiwari
 
-🚀 **AI & Robotics Enthusiast | Computer Vision | Autonomous Systems**  
-
-I’m a college student pursuing **Artificial Intelligence & Robotics**, passionate about building real-world systems that combine **hardware + software + AI**.  
-My work spans **Computer Vision, Machine Learning, Robotics, IoT, and Autonomous Technologies**.
-
----
-
-## 🔧 What I Work On
-- 🤖 **AI & Computer Vision**  
-  - Object Detection (YOLO, CNNs)  
-  - Drowsiness & Yawn Detection  
-  - Medical Image Analysis (Chest X-Ray, CT)  
-
-- 🛠️ **Robotics & Embedded Systems**  
-  - ROS-based robotics systems  
-  - ESP8266 / ESP32-CAM projects  
-  - Servo & motor control via Wi-Fi  
-  - Autonomous vehicle logic  
-
-- ⚡ **Automotive & EV Systems**  
-  - CVT transmission implementation for EV Go-Kart  
-  - Fail-safe control & condition-based monitoring systems  
-
-- 🚁 **Autonomous & Aerial Tech**  
-  - Perception and navigation concepts  
-  - Drone-inspired autonomous control systems  
+🎓 **AI & Robotics Engineer** | 🤖 Autonomous Systems | 👁️ Computer Vision | ⚙️ Robotics & EV Systems  
+📍 Sagar, Madhya Pradesh, India  
+📧 tiwariyuvraj030@gmail.com  
+🔗 GitHub: https://github.com/uvcane  
+🔗 LinkedIn: https://linkedin.com/in/yuvraj-tiwari295516349  
 
 ---
 
-## 🧠 Tech Stack
-**Languages & Tools:**  
-`Python` `C++` `JavaScript` `HTML/CSS` `SQL`
-
-**AI / ML:**  
-`OpenCV` `PyTorch` `TensorFlow` `scikit-learn` `YOLO`
-
-**Robotics & IoT:**  
-`ROS` `ESP8266` `ESP32-CAM` `Arduino`
-
-**Other:**  
-`Docker` `Git` `Linux`
+## 🧠 Professional Summary
+AI & Robotics engineer with strong hands-on experience in **computer vision, ROS, deep learning, and autonomous systems**.  
+Worked on real-world projects spanning **drowsiness detection, EV drivetrains, robotic automation, and aerial–ground autonomous systems**, with applications in **autonomous mobility, safety, and intelligent perception**.
 
 ---
 
-## 📌 Featured Projects
-- 🔍 **Drowsiness Detection System** – Real-time driver monitoring using OpenCV & Dlib  
-- 🩻 **Chest X-Ray Disease Detection** – ML-based medical image diagnosis  
-- 🏎️ **EV Go-Kart Control System** – CVT transmission & remote fail-safe control  
-- 🌐 **ESP8266 Web Control** – Servo motor control via Wi-Fi web interface  
-- 🧠 **YOLO-based Object Detection** – Custom zero-shot detection models  
+## 🎓 Education
+**Madhav Institute of Technology & Science**  
+*B.Tech in Artificial Intelligence & Robotics* (Expected May 2026)  
+CGPA: **7.0 / 10**
 
-*(More projects available in my repositories 👇)*
-
----
-
-## 📈 Currently Exploring
-- Advanced Computer Vision  
-- Autonomous Navigation  
-- Real-time AI on Edge Devices  
-- Robotics-AI integration  
+**S.R. Government Polytechnic**  
+*Diploma in Computer Science & Engineering* (2020 – 2023)  
+CGPA: **7.61 / 10**
 
 ---
 
-## 📫 Connect With Me
-- 💼 **GitHub:** https://github.com/YuvrajTiwari  
-- 📧 **Email:** *(add if you want)*  
-- 🌐 **Portfolio:** *(optional)*  
+## 🛠️ Technical Skills
+
+### Programming & Tools
+`Python` `C++` `JavaScript` `HTML/CSS` `SQL/MySQL`  
+`Node.js` `Docker` `Git` `Linux`
+
+### AI & Computer Vision
+- Image Processing (Filtering, Segmentation, Augmentation)
+- CNNs, Object Detection (**YOLOv5 / YOLOv8**)
+- SLAM, Sensor Fusion
+- Model explainability (Grad-CAM)
+
+### Robotics & Automation
+- **ROS**, URDF, MoveIt
+- Motion Planning & Kinematics
+- Mitsubishi 6-DOF Industrial Arm Programming
+- Jetson Nano / Orin, Raspberry Pi
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+## 🚀 Featured Projects
+
+### 🔹 FOD Detection System
+End-to-end **autonomous Foreign Object Debris (FOD) detection & removal system**, integrating:
+- Aerial drone-based surveillance
+- Jetson Nano–powered ground vehicle
+- Optimized CV pipeline achieving **18% improvement in detection accuracy**
+
+---
+
+### 🔹 Vision-Edge
+YOLO-based deep learning system for **disaster response & search-and-rescue**, supporting:
+- UAV-based aerial monitoring
+- Grounded SAR missions
+- Real-time environment scanning for emergency management
+
+---
+
+### 🔹 Real-Time Drowsiness Detection System
+- Built using **OpenCV & Dlib**
+- Eye Aspect Ratio (EAR)–based fatigue detection
+- Achieved **93% detection accuracy**
+- Integrated brake-engagement signal to safely halt an autonomous test vehicle
+
+---
+
+### 🔹 Chest X-Ray Disease Detection
+- CNN model for pneumonia, TB, COVID-19 classification (**91% accuracy**)
+- Implemented **Grad-CAM heatmaps** for clinical explainability
+- Designed for rapid triaging support
+
+---
+
+## 💼 Professional Experience
+
+### 🏎️ Hindustan Motor Sports — *Transmission Head*  
+**Jul 2024 – Present**
+- Led **CVT system design & integration** for an EV go-kart
+- Improved torque delivery by **25%**
+- Reduced mechanical losses by **15%**
+- Coordinated a **5-member engineering team** using agile sprints
+- Authored SOPs & trained juniors, reducing onboarding time by **30%**
+
+---
+
+### 🏥 Medical Store & Chest Clinic — *Operations Manager*  
+**Jan 2019 – Jun 2023**
+- Managed operations for a clinic serving **100+ patients/week**
+- Reduced patient wait time by **20%**
+- Implemented Excel-based inventory forecasting, cutting stock-outs by **40%**
+
+---
+
+## 🏆 Certifications & Achievements
+- 🥇 **Top Position** – Disaster Management & Emergency Response  
+  *ABV-IIITM HACKSAGON 2025*
+- 📜 NPTEL – *Wheeled Mobile Robot*
+- 🏎️ Hindustan Motor Sports – Certificate of Participation
+- 🤖 Certificate of Appreciation – *World Robotics Championship (Technoxian 5.0)*
+- 📘 MathWorks Course Completion Certificate
+
+---
+
+## 📌 Interests & Focus Areas
+- Autonomous Mobility Systems
+- Robotics–AI Integration
+- Edge AI & Real-Time Vision
+- Safety-Critical Intelligent Systems
+
